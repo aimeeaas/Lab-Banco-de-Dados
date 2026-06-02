@@ -1,5 +1,5 @@
 ## Projeto de Banco de Dados - Oracle APEX
-P1: Sistema de gerenciamento de pedidos com clientes, produtos e vendas.
+P1: Sistema de gerenciamento de pedidos com clientes, produtos e vendas. <br>
 P2: Sistema de gerenciamento de serviços com clientes, veículo e histórico.
 
 ## Conteúdo:
